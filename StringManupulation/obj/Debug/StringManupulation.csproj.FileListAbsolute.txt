@@ -1,0 +1,13 @@
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\StringManupulation.exe.config
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\StringManupulation.exe
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\StringManupulation.pdb
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.csprojAssemblyReference.cache
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.csproj.CoreCompileInputs.cache
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.exe
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.pdb
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\NodaTime.dll
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\NodaTime.pdb
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\NodaTime.xml
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\robik\source\repos\StringManupulation\StringManupulation\obj\Debug\StringManupulation.csproj.CopyComplete
